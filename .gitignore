@@ -1,0 +1,28 @@
+# Scala
+*.class
+*.log
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+
+# Sbt specific
+target/
+
+# OS X
+*.DS_Store
+
+# Vagrant
+.vagrant/
+
+# redis
+dump.rdb
+
+.cache
+.settings
+.project
+
+twitter4j.properties
